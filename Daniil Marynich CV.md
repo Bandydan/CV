@@ -2,7 +2,7 @@
 
 ### SUMMARY
 I was born in 1983.
-I was a skilled web developer with more then eight years in web-development (PHP, Python, PERL, MySQL, PostGres, JS).
+I was a skilled web developer with more then eight years in web-development (PHP, Python, PERL, MySQL, JS).
 
 From the year 2012 I'm turning my career goals to management path: worked as PM in remote foreign company with a very small team for more then 4 years, worked as PM in a small company with russian origins.
 
