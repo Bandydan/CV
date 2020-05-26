@@ -1,4 +1,5 @@
 # Daniil Marynich CV
+![me](me.jpg)
 
 ### SUMMARY
 I was born in 1983.
